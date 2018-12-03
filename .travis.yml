@@ -1,5 +1,9 @@
-build:
-  image: latest
+lauguage: python
+
+branches:
+  only:
+  - master
   
-python:
-  version: 3.6
+services:
+  - docker
+  
