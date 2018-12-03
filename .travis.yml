@@ -1,1 +1,5 @@
-language: python
+build:
+  image: latest
+  
+python:
+  version: 3.6
