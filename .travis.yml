@@ -1,9 +1,0 @@
-lauguage: python
-
-branches:
-  only:
-  - master
-  
-services:
-  - docker
-  
