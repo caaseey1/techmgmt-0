@@ -14,7 +14,7 @@ import json
 import click
 
 app = Flask(__name__)
-r = Redis(host='localhost', port=6379, db=0, socket_connect_timeout=2, socket_timeout=2)
+r = Redis(host='redis', db =0, socket_connect_timeout=2, socket_timeout=2)
 @click.group()
 @app.route("/")
 def hello():
