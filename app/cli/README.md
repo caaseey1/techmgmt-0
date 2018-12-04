@@ -7,6 +7,7 @@ Make sure to install: `pip3 install click` and `pip3 install requests` before ru
 ```
 mkdir Documents/cli
 cd Documents/cli
+vi app.py (create app file and copy paste from app.py in this repo directory)
 virtualenv venv
 ls venv
 . venv/bin/activate
