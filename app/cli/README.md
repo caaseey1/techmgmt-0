@@ -1,6 +1,6 @@
 # Readme for setting up virtual environment to get CLI to work
 
-Make sure to install: `pip3 install click` before running CLI
+Make sure to install: `pip3 install click` and `pip3 install requests` before running CLI
 
 ### Do the following commands in their listed order: 
 
