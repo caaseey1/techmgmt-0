@@ -29,3 +29,9 @@ pipeline {
   }
   }
 }
+
+/*credentials setup in Jenkins:
+ID: Dockerhub
+username: kc12345
+password: password12345
+*/
