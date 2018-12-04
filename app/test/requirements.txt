@@ -1,6 +1,0 @@
-flask
-redis
-requests
-slackclient
-click
-
